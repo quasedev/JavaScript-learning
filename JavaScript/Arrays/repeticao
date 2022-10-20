@@ -1,0 +1,11 @@
+
+const nome = 'Leonardo Henrique'; 
+
+for (let i = 0; i < 10; i++) {
+ const letra = nome(i);
+ console.log(letra);
+
+};
+
+
+
